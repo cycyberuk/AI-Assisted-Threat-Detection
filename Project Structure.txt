@@ -1,0 +1,9 @@
+cyber-intel-platform/
+├── app.py                 # Main Streamlit application
+├── threat_analyzer.py     # DeepSeek integration module
+├── nigeria_context.py     # Nigeria-specific threat context
+├── data_generator.py      # Simulated threat data generation
+├── config.py              # Configuration settings
+├── requirements.txt       # Python dependencies
+├── .env                   # Environment variables (API keys)
+└── README.md             # Documentation
